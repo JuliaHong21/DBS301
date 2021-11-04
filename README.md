@@ -1,13 +1,13 @@
 # DBS301
 Oracle Database design and SQL
 
-Description:
+## Description:
 - The entire set of SQL statements using Oracle's DBMS
 - Oracle's SQL *Plus commands.
 - Logical and physical database schema for a business application requiring 12-18 tables including all necessary contraints to protect the integrity of the data
 
 
-Outcomes:
+## Outcomes:
 1. Identify all constraints required to maintain data integrity for a business application
 
 2. Work effectively as a member of a team to analyse data requirements, prepare an Entity Relationship Diagram, normalize application user views and prepare a logical database schema for a business application requiring more than 12 tables
